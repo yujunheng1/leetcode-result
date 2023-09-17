@@ -1,6 +1,6 @@
 # LeetCode 
 
-This repository including all the code I write in Leetcode, usually I write the code in c++
+This repository including all the code I write in Leetcode, usually I write the code in c++. There are two parts, the first part is problem set. And the rest part is weekly problem list.
 
 ##  Easy
 
@@ -14,4 +14,8 @@ This repository including all the code I write in Leetcode, usually I write the 
 
 ## Hard
 
+# Weekly contest
+## week_363
+    -[2859. Sum of Values at Indices With K Set Bits](./weekly_contest/week_363/Q1.cpp)
+    -[2860. Happy Students](./weekly_contest/week_363/Q2.cpp)
 ...
