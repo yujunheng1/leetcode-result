@@ -22,7 +22,6 @@ This repository including all the code I write in Leetcode, usually I write the 
 
 # Weekly contest
 ## week_363
-
     - [Sum of Values at Indices With K Set Bits](./weekly_contest/week_363/Q1.cpp)
     - [Happy Students](./weekly_contest/week_363/Q2.cpp)
     
